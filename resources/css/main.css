@@ -1,0 +1,23 @@
+@import url(_header.css);
+@import url(_sections.css);
+
+div {
+    border: 1px solid grey;
+}
+body {
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: seashell;
+    margin: 0;
+}
+a {
+    text-decoration: underline;
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+}
+.main-container {
+ }
