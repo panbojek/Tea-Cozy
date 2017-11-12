@@ -1,8 +1,9 @@
 @import url(_header.css);
 @import url(_sections.css);
+@import url(_footer.css);
 
 div {
-    border: 1px solid grey;
+    border: 0px solid grey;
 }
 body {
     background-color: black;
@@ -11,6 +12,7 @@ body {
     text-align: center;
     color: seashell;
     margin: 0;
+    opacity: 0.9;
 }
 a {
     text-decoration: underline;
@@ -19,5 +21,3 @@ a {
 a:hover {
     text-decoration: none;
 }
-.main-container {
- }
